@@ -1,5 +1,5 @@
 
-# Tutorial — Yesh Tic-Tac-Toe 
+# Yesh Tic-Tac-Toe 
 
 ![Final product](https://cdn-images-1.medium.com/max/2000/1*RL2pOic2pHoKMbdB0ADiHA.gif)
 
